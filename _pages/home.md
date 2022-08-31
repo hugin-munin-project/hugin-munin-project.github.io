@@ -1,7 +1,7 @@
 ---
 title: "HUGIN-MUNIN - Home"
-layout: HUGIN-MUNIN - Enhanced Access to Norwegian Cultural Heritage using AI-driven Handwriting Recognition
-excerpt: "Allan Lab at Leiden University."
+layout: homelay
+excerpt: HUGIN-MUNIN - Enhanced Access to Norwegian Cultural Heritage using AI-driven Handwriting Recognition
 sitemap: false
 permalink: /
 ---
