@@ -5,36 +5,33 @@ excerpt: HUGIN-MUNIN - Enhanced Access to Norwegian Cultural Heritage using AI-d
 sitemap: false
 permalink: /
 ---
-
-The primary, overall objective of the HUGIN-MUNIN project is to develop new deep neural network
+#### Enhanced Access to Norwegian Cultural Heritage using AI-driven Handwriting Recognition
+<span style="text-decoration: underline">The primary, overall objective of the HUGIN-MUNIN project is to develop new deep neural network
 technology with general, robust models that will enable large-scale use of HTR as part of the
 standard digitization process of Norwegian LAM collections without the need for massive and on-
-going manual annotation and model training.
+going manual annotation and model training.</span>
 
 In order to attain the primary project objective, new methods will be developed that go beyond
-traditional supervised machine learning, by using active learning, unsupervised learning, transfer
-learning, and zero-shot learning.
+traditional supervised machine learning, by using <span style="text-decoration: underline">active learning, unsupervised learning, transfer
+learning, and zero-shot learning</span>.
 
 The HUGIN-MUNIN project aims to go beyond the current state-of-the-art AI supervised deep neural
 network document processing workflow described above. Instead of a typical current HTR digitization
 workflow, resulting in a static model incapable of incorporating new information collected about new
 writers or document types, HUGIN-MUNIN will develop a way to automatically adapt the model to
 new information by integrating a self-supervised adaptation process to the recognition process. Thus,
-the project both addresses state-of-the-art AI for handwriting recognition and introduces the
-integration of an automated, self-learning adaptation process for a dynamic user influenced model,
+the project both addresses <span style="text-decoration: underline">state-of-the-art AI for handwriting recognition</span> and introduces the
+integration of an <span style="text-decoration: underline">automated, self-learning adaptation process for a dynamic user influenced model,
 capable of continuously evolving with the addition of information about new writers, content, and
-document features.
+document features.</span>
 
-Key to the project will be an interdisciplinary collaboration between specialized research communities
-within document analysis and HTR, both nationally and internationally. This will expand Norwegian
-experience and competence in AI/autonomous systems expertise and enhance the innovative
-potential of the Norwegian LAM sector through transfer of knowledge and best practices.
+Key to the project will be an <span style="text-decoration: underline">interdisciplinary collaboration</span> between specialized research communities
+within document analysis and HTR, both nationally and internationally. This will <span style="text-decoration: underline">expand Norwegian
+experience and competence in AI/autonomous systems expertise</span> and enhance the <span style="text-decoration: underline">innovative
+potential of the Norwegian LAM sector</span> through transfer of knowledge and best practices.
 
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+Funded by [The Research Council of Norway](https://www.forskningsradet.no/) within the IKTPLUSS initiative
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 140px">
 </figure>
