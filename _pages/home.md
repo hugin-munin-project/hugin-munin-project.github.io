@@ -5,7 +5,6 @@ excerpt: HUGIN-MUNIN - Enhanced Access to Norwegian Cultural Heritage using AI-d
 sitemap: false
 permalink: /
 ---
-#### Enhanced Access to Norwegian Cultural Heritage using AI-driven Handwriting Recognition
 <span style="text-decoration: underline">The primary, overall objective of the HUGIN-MUNIN project is to develop new deep neural network
 technology with general, robust models that will enable large-scale use of HTR as part of the
 standard digitization process of Norwegian LAM collections without the need for massive and on-
