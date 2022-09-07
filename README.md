@@ -6,6 +6,16 @@ The pages are automatically generated from Markdown and data files that you can 
 
 Whenever you modify this repository, the web pages will be updated in a few minutes. You can check the status of the generation in Settings/Pages. A blue color corresponds to code with no error, green means the new version has been published.
 
+## How to run locally:
+Install Jekyll:
+ * Windows: https://jekyllrb.com/docs/installation/windows/
+ * Mac: https://jekyllrb.com/docs/installation/macos/
+ * Ubuntu: https://jekyllrb.com/docs/installation/ubuntu/
+ 
+Run ````bundle exec jekyll serve```` From the root folder
+
+
+
 ## To add a publication
 - modify the `_data/publist.yml` file following the same format as existing entries.
 - if you want the publication to be displayed at the top, choose `highlight: 1`, otherwise `0`
