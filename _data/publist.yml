@@ -1,0 +1,9 @@
+- title: "Example publication"
+  image: logo_image.jpg
+  description: Lorem Ipsum Dolor Sit Amet Lorem Ipsum Dolor Sit Amet Lorem Ipsum Dolor Sit Amet Lorem Ipsum Dolor Sit Amet Lorem Ipsum Dolor Sit Amet
+  authors: Example person
+  link:
+    url: ""
+    display: example
+  highlight: 1
+  news2:
