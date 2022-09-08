@@ -1,7 +1,7 @@
 ---
 title: "HUGIN-MUNIN - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "HUGIN-MUNIN - Research"
 sitemap: false
 permalink: /research/
 ---
