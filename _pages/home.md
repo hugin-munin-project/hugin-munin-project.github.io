@@ -34,3 +34,6 @@ Funded by [the Norwegian Research Council](https://forskningsradet.no/) within t
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nrc.png" style="width: 140px">
 </figure>
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NB logo.jpg" style="width: 140px">
+</figure>
