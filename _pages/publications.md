@@ -23,8 +23,8 @@ permalink: /publications/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <p> {{ publi.where }}</p>
   <p><em>{{ publi.authors }}</em></p>
+  <p> {{ publi.where }}</p>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
 
