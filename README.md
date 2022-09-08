@@ -1,6 +1,6 @@
 # Web pages for Hugin Munin
 
-[https://fossei.de/hm/](https://fossei.de/hm/)
+[https://hugin-munin-project.github.io/](https://hugin-munin-project.github.io/)
 
 The pages are automatically generated from Markdown and data files that you can find in this repository. Please look at the existing data as an example of how to add new information.
 
