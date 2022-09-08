@@ -9,9 +9,6 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
-
-**At the end of this page, you can find the [full list of publications](#full-list-of-publications). **
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -26,6 +23,7 @@ permalink: /publications/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
+  <p> {{ publi.where }}</p>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
@@ -53,11 +51,3 @@ permalink: /publications/
 
 
 
-## Full List of publications
-
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
