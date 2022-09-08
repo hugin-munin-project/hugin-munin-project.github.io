@@ -10,7 +10,7 @@ title: Hugin Munin
 email: fredrika.haneborg-luhr@lumex.no
 description: > # this means to ignore newlines until "baseurl:"
   Website of Hugin Munin.
-baseurl: /hm
+baseurl: ""
 url: ""
 
 include:
