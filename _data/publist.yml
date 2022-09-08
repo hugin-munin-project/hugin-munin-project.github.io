@@ -1,7 +1,7 @@
 - title: "A Comprehensive Comparison of Open-Source Libraries for Handwritten Text Recognition in Norwegian"
   image: das2022_image.png
-  description: n this paper, we introduce a database of historical handwritten documents in Norwegian, the first of its kind, allowing the development of handwritten text recognition models (HTR) in Norwegian.
-  authors: Maarand, Martin; Beyer, Yngvil; Kåsen, Andre; Fosseide, Knut T.; Kermorvant, Christopher
+  description: In this paper, we introduce a database of historical handwritten documents in Norwegian, the first of its kind, allowing the development of handwritten text recognition models (HTR) in Norwegian.
+  authors: Martin Maarand, Yngvil Beyer, Andre Kåsen, Knut T. Fosseide, Christopher Kermorvant
   link:
     url: "https://teklia.com/research/publications/maarand2022/"
     display: ""
