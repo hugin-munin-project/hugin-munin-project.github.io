@@ -9,3 +9,25 @@
   education3: Master of Engineering at ENSIIE, France
 
 
+
+- name: Solène Tarride
+  photo: STA.jpg
+  info: Machine Learning Researcher at <a href="http://teklia.com/">TEKLIA</a> 
+  email: starride@teklia.com
+  number_educ: 3
+  education1: PhD in Computer Science INSA Rennes, France
+  education2: Master of Data Science Université Paris Saclay, France
+  education3: Master of Engineering at ENSIIE, France
+
+
+
+
+- name: Mélodie Boillet
+  photo: MBO.jpg
+  info: Machine Learning Researcher  <a href="http://teklia.com/">TEKLIA</a> - PhD student at LITIS Lab, Université de Rouen
+  email: boillet@teklia.com
+  number_educ: 1
+  education1: Master of Science INSA de Rouen, France
+
+
+
