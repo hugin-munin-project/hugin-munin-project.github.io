@@ -32,5 +32,5 @@ potential of the Norwegian LAM sector through transfer of knowledge and best pra
 Funded by [the Norwegian Research Council](https://forskningsradet.no/) within the IKTPLUSS initiative
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 140px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nrc.png" style="width: 140px">
 </figure>
