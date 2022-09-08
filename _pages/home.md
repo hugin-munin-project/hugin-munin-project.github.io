@@ -29,7 +29,7 @@ within document analysis and HTR, both nationally and internationally. This will
 experience and competence in AI/autonomous systems expertise and enhance the innovative
 potential of the Norwegian LAM sector through transfer of knowledge and best practices.
 
-Funded by [the European Research Council](https://erc.europa.eu/) within the IKTPLUSS initiative
+Funded by [the Norwegian Research Council](https://forskningsradet.no/) within the IKTPLUSS initiative
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 140px">
