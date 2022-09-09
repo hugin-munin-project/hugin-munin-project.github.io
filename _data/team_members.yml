@@ -1,10 +1,10 @@
 
 - name: Christopher Kermorvant
   photo: CKE.jpg
-  info: CEO and Founder of <a href="http://teklia.com/">TEKLIA</a> - Associate Research at LITIS Lab, Université de Rouen
+  info: CEO and Founder of <a href="http://teklia.com/">TEKLIA</a> - Associate Researcher at LITIS Lab, Université de Rouen
   email: kermorvant@teklia.com
   number_educ: 3
-  education1: PhD in Computer Science Université de Lyon, France
+  education1: PhD in Computer Science Université de Lyon/Saint-Etienne, France
   education2: Master of Science University of Manchester, UK
   education3: Master of Engineering at ENSIIE, France
 
@@ -12,7 +12,7 @@
 
 - name: Solène Tarride
   photo: STA.jpg
-  info: Machine Learning Researcher at <a href="http://teklia.com/">TEKLIA</a> 
+  info: Machine Learning Researcher at <a href="http://teklia.com/">TEKLIA</a>
   email: starride@teklia.com
   number_educ: 3
   education1: PhD in Computer Science INSA Rennes, France
@@ -28,6 +28,3 @@
   email: boillet@teklia.com
   number_educ: 1
   education1: Master of Science INSA de Rouen, France
-
-
-
