@@ -23,7 +23,7 @@ within document analysis and HTR, both nationally and internationally. This will
 experience and competence in AI/autonomous systems expertise and enhance the innovative
 potential of the Norwegian LAM sector through transfer of knowledge and best practices.
 
-Funded by [the Norwegian Research Council](https://forskningsradet.no/) within the IKTPLUSS initiative
+Funded by [the Norwegian Research Council](https://forskningsradet.no/) within the [IKTPLUSS initiative](https://prosjektbanken.forskningsradet.no/en/project/FORISS/328598)
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/sample_handwriting.jpg" style="width: 600px">
 
