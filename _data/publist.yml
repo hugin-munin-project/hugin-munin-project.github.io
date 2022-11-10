@@ -10,7 +10,7 @@
   news2:
 - title: "NorHand / Dataset for Handwritten Text Recognition in Norwegian"
   image: humu_sample.png
-  description: The dataset comprises Norwegian letter and diary line images and text from 19th and early 20th century.
+  description: The dataset comprises Norwegian letter and diary line images and text from 19th and early 20th century. It contains both the images, the manual transcriptions and the definitions of training and test sets for HTR experiments.
   authors: Yngvil Beyer, Andre Kåsen
   where: Zenodo
   link:
