@@ -18,3 +18,13 @@
     display: ""
   highlight: 1
   news2:
+- title: "Text line detection model for Doc-UFCN - Hugging Face"
+  image: tl_detection.png
+  description: The Hugin-Munin line detection model predicts text lines from Hugin-Munin document images. It predicts two classes: vertical and horizontal text lines.
+  authors: Mélodie Boillet, Christopher Kermorvant
+  where: Hugging Face - Nov 10, 2022
+  link:
+    url: "https://huggingface.co/Teklia/doc-ufcn-huginmunin-line"
+    display: ""
+  highlight: 1
+  new2:
