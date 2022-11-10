@@ -5,7 +5,7 @@
   where: 15th IAPR International Workshop, Das 2022, la Rochelle, France
   link:
     url: "https://teklia.com/research/publications/maarand2022/"
-    display: ""
+    display: "Paper"
   highlight: 1
   news2:
 - title: "NorHand / Dataset for Handwritten Text Recognition in Norwegian"
@@ -15,7 +15,7 @@
   where: Zenodo - May 20, 2022
   link:
     url: "https://doi.org/10.5281/zenodo.6542056"
-    display: ""
+    display: "Dataset"
   highlight: 1
   news2:
 - title: "Text line detection model for Doc-UFCN - Hugging Face"
@@ -25,6 +25,6 @@
   where: Hugging Face - Nov 10, 2022
   link:
     url: "https://huggingface.co/Teklia/doc-ufcn-huginmunin-line"
-    display: ""
+    display: "Model"
   highlight: 1
   new2:
