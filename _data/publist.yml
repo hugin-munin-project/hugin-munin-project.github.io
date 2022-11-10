@@ -8,3 +8,13 @@
     display: ""
   highlight: 1
   news2:
+- title: "NorHand / Dataset for Handwritten Text Recognition in Norwegian"
+  image: humu_sample.png
+  description: The dataset comprises Norwegian letter and diary line images and text from 19th and early 20th century.
+  authors: Yngvil Beyer, Andre Kåsen
+  where: Zenodo
+  link:
+    url: "https://doi.org/10.5281/zenodo.6542056"
+    display: ""
+  highlight: 1
+  news2:
