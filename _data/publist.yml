@@ -28,3 +28,13 @@
     display: "Use the Model"
   highlight: 1
   new2:
+- title: "PyLaia v1.0.3 with language model support is released"
+  image: tl_detection.png
+  description: "TEKLIA has released a new version of the HTR library PyLaia which support decoding with language models. TEKLIA is now the official maintainer of PyLaia."
+  authors: Solène Tarride, Christopher Kermorvant
+  where: github.com - Dec 12, 2022
+  link:
+    url: "https://github.com/jpuigcerver/PyLaia/releases/tag/1.0.3"
+    display: "Clone the repository"
+  highlight: 1
+  new2:
