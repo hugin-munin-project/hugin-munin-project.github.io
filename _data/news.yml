@@ -1,9 +1,9 @@
 - date: 12. December 2022
-  headline: "PyLaia v1.0.3 with language model [PyLaia](https://github.com/jpuigcerver/PyLaia/releases/tag/1.0.3)"
+  headline: "Release of PyLaia v1.0.3 with language model [PyLaia](https://github.com/jpuigcerver/PyLaia/releases/tag/1.0.3)"
 - date: 7. December 2022
   headline: "Confidence scores added to [PyLaia](https://github.com/jpuigcerver/PyLaia)"
 - date: 10. November 2022
-  headline: "Doc-UFCN line detection models are public on [HuggingFace](https://huggingface.co/Teklia/doc-ufcn-huginmunin-line)"
+  headline: "Release of Doc-UFCN line detection models on [HuggingFace](https://huggingface.co/Teklia/doc-ufcn-huginmunin-line)"
 - date: 25. May 2022
   headline: "Oral presentation a paper at [DAS2022](https://das2022.univ-lr.fr/index.php/oral-session-6/)"
 - date: 20. May 2022
