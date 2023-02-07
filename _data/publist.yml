@@ -38,3 +38,13 @@
     display: "Clone the repository"
   highlight: 1
   new2:
+- title: "PyLaia HTR models publicly available on Hugging Face"
+  image: tl_detection.png
+  description: "TEKLIA has published on HuggingFace the PyLaia model for Norwegian handwriting recognition trained on the NorHand dataset"
+  authors: Solène Tarride, Christopher Kermorvant
+  where: github.com - Dec 18, 2022
+  link:
+    url: "https://huggingface.co/Teklia/doc-ufcn-huginmunin-line"
+    display: "Use the Model"
+  highlight: 1
+  new2:
