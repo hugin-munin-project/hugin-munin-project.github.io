@@ -16,8 +16,8 @@
 
 - name: Mélodie Boillet
   photo: MBO.jpg
-  info: Machine Learning Researcher  <a href="http://teklia.com/">TEKLIA</a> - PhD student at LITIS Lab, Université de Rouen
+  info: Machine Learning Researcher  <a href="http://teklia.com/">TEKLIA</a> 
   email: boillet@teklia.com
   number_educ: 2
-  education1: Master of Science INSA de Rouen, France
+  education1: PhD in Computer Science from Université de Rouen, France
   education2: Deep Learning, Document Layout Analysis
