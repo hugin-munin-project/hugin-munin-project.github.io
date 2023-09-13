@@ -52,7 +52,7 @@
   image: tl_detection.png
   description: "TEKLIA has released a new version of the HTR library PyLaia which support temperature scaling to improve confidence scores."
   authors: Solène Tarride, Yoann Schneider, Christopher Kermorvant
-  where: github.com - Dec 12, 2022
+  where: github.com - Sep 12, 2023
   link:
     url: "https://github.com/jpuigcerver/PyLaia"
     display: "Clone the repository"
